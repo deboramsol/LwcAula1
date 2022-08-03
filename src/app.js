@@ -39,6 +39,16 @@ this.email = 'harrypotter@soulcode.com';
 this.instagram ='https://www.instagram.com/';
 this.linkedIn ='https://www.linkedin.com/feed/';
 }
+
+trocarPrimeiro(){
+    this.nome = 'Débora Sol';
+    this.telefone = '31 99999999';
+    this.cpf = '12345678901';
+    this.idade = 35;
+    this.email = 'demonfsol@soulcode.com';
+    this.instagram ='https://www.instagram.com/';
+    this.linkedIn ='https://www.linkedin.com/feed/';
+  }
 }
 
 /* 
